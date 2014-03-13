@@ -1,0 +1,46 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+nav[role="navigation"] {
+	background: rgba(10,10,10,.7);
+	border: none;
+	box-shadow: 0 0 1pc 6px rgba(180,180,180,.6);
+}
+
+header[role="banner"] {
+	padding-top: 88px;
+}
+
+.channel-prop {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.channel-figure {
+	width: 40px;
+	height: 40px;
+	background: #eee;
+}
+
+.channel-name {
+	padding: 0 120px 0 28px;
+}
+
+.subscription-item {
+	margin: 10px 0 0 24px;
+}
+
+.btn-cancel {
+	margin: 3px -64px 0 0;
+}
+
+.footer {
+	padding-bottom: 18px;
+	text-align: center;
+}
+
+.ng-logo {
+	width: 14%;
+	padding: 20px;
+}
